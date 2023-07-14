@@ -19,6 +19,9 @@ Whisperer is an AddOn for World of Warcraft that allows you to create custom whi
   * On logout
   * On resurrection
   * On whisper
+  * On friend
+    * Login
+    * Logout
 * Dynamic Text
   * Current time
   * Current date
