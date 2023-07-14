@@ -1,0 +1,8 @@
+## Interface: 50401
+## Title: Whisperer
+## Notes: Send a custom Whisper to a specific player on login
+## Version: 1.0.0
+## Author: Maxwell White
+## SavedVariablesPerCharacter: WhispererDB
+## SavedVariables: WhispererDB
+Whisperer.lua
